@@ -1,0 +1,7 @@
+Answer:  6857
+
+Coded a solution using the Sieve of Eratosthenes algorithm. Optimized to mark numbers starting with the prime's square.
+
+Used the numbers's square root as the actual limit.
+
+Used a vector instead of an array because the size of the array is not known at compile time, causing errors. An array would make more sense to me, though I'll leave it as it is for now.

@@ -1,0 +1,5 @@
+Answer:  6857
+
+Coded a solution using the Sieve of Eratosthenes algorithm. Optimized to mark numbers starting with the prime's square.
+
+Used the numbers's square root as the actual limit.

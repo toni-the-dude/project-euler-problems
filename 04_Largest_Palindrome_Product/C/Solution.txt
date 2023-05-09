@@ -1,0 +1,7 @@
+Answer:  906609
+
+Coded a straightforward solution (memory allocation practice aside).
+
+Looking back, it seems that I tried to make use of the property:
+    "All palindromes with an even number of digits are divisible by 11.";
+however, I made a very obvious blunder. This solution runs fast, so I might leave it as it is.

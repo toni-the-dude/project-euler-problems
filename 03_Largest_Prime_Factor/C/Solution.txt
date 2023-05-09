@@ -1,0 +1,5 @@
+Answer:  6857
+
+I used a silly approach of checking every number for being prime. 
+
+Practiced dynamic memory allocation syntax.
